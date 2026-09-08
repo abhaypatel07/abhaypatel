@@ -1,0 +1,17 @@
+"social": [
+    { "label": "Twitter/X", "icon": "Twitter", "url": "https://x.com/example-abhay" },
+    { "label": "LeetCode", "icon": "Code2", "url": "https://leetcode.com/example-abhay" },
+    { "label": "HackerRank", "icon": "Terminal", "url": "https://hackerrank.com/example-abhay" }
+  ],
+
+nav : { "label": "Blog", "href": "/blog" },
+
+  "stats": [
+    { "label": "Projects Completed", "value": 24, "suffix": "+" },
+    { "label": "Years Experience", "value": 3, "suffix": "+" },
+    { "label": "SQL Queries Written", "value": 1200, "suffix": "+" },
+    { "label": "Automation Scripts", "value": 60, "suffix": "+" },
+    { "label": "Clients Served", "value": 7, "suffix": "" },
+    { "label": "Technologies", "value": 35, "suffix": "+" },
+    { "label": "GitHub Repositories", "value": 17, "suffix": "" }
+  ],

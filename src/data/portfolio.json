@@ -1,0 +1,1127 @@
+{
+  "personal": {
+    "name": "Abhay Patel",
+    "shortName": "Abhay",
+    "logo": "AP",
+    "role": "Software Engineer | AI/ML Developer | Data Analyst",
+    "company": "Tata Consultancy Services (TCS)",
+    "location": "Mumbai, Maharashtra, India",
+    "email": "its.abhaypatel@gmail.com",
+    "phone": "+91 9313389251",
+    "availability": "Available for Freelance Projects & Full-Time Opportunities",
+    "tagline": "AI/ML • Data Analytics • Full Stack • Python • Backend"
+  },
+  "social": [
+    { "label": "GitHub", "icon": "Github", "url": "https://github.com/abhaypatel07" },
+    { "label": "LinkedIn", "icon": "Linkedin", "url": "https://www.linkedin.com/in/abhaypatel07/" },
+    { "label": "Email", "icon": "Mail", "url": "mailto:its.abhaypatel@gmail.com" },
+    { "label": "Kaggle", "icon": "BarChart3", "url": "https://www.kaggle.com/abhaypatel007" }
+  ],
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "About", "href": "/about" },
+    { "label": "Experience", "href": "/experience" },
+    { "label": "Projects", "href": "/projects" },
+    { "label": "Services", "href": "/services" },
+    { "label": "Resume", "href": "/resume" },
+    { "label": "Contact", "href": "/contact" }
+  ],
+  "hero": {
+    "badge": "Software Engineer @ Tata Consultancy Services",
+    "greeting": "Hi, I'm",
+    "name": "Abhay Patel",
+    "roles": [
+      "Software Engineer",
+      "AI/ML Developer",
+      "Data Analyst",
+      "Full Stack Developer",
+      "Python Developer",
+      "Backend Engineer"
+    ],
+    "intro": "I design and build scalable software, AI-powered applications, data-driven solutions, and modern web platforms that help businesses automate processes, gain insights, and deliver exceptional user experiences.",
+    "highlights": [
+      "Experienced in developing and analyzing large-scale digital banking solutions serving millions of users.",
+      "Built Python automation and SQL-driven analytics to improve operational efficiency and data accuracy.",
+      "Developed production-ready full stack applications using React, Next.js, Node.js, PostgreSQL, and modern cloud technologies."
+    ],
+    "primaryCta": {
+      "label": "Download Resume",
+      "href": "/resume/Abhay-Patel-Resume.pdf"
+    },
+    "secondaryCta": {
+      "label": "View Projects",
+      "href": "/projects"
+    },
+    "tertiaryCta": {
+      "label": "Let's Connect",
+      "href": "/contact"
+    }
+  },
+  "about": {
+    "heading": "About Me",
+    "subheading": "Building intelligent solutions with data, AI, and software engineering.",
+    "summary": [
+      "I'm a Software Engineer at Tata Consultancy Services (TCS), currently working on enterprise-scale data analysis, intelligent automation, and AI-driven solutions for the banking domain. My work focuses on transforming large volumes of operational data into meaningful insights, optimizing business processes through SQL and Python, and developing scalable solutions that improve efficiency, reliability, and decision-making.",
+      "My professional experience includes data analysis, Python automation, SQL optimization, production data validation, root cause analysis, API analysis, and business process improvement. Working with large-scale enterprise systems has strengthened my analytical thinking and given me hands-on experience in solving real-world data challenges while maintaining accuracy, performance, and data quality.",
+      "Beyond my professional responsibilities, I'm passionate about Artificial Intelligence, Machine Learning, Data Science, and Data Engineering. I continuously build real-world projects involving predictive analytics, Generative AI, LLM applications, intelligent automation, and modern data pipelines to expand my expertise and solve business problems with data-driven solutions."
+    ],
+    "philosophy": "The best solutions are built when data, AI, and engineering come together to solve real business problems.",
+    "interests": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "Data Analytics",
+      "Generative AI",
+      "Large Language Models (LLMs)",
+      "Data Engineering",
+      "Python Automation"
+    ],
+    "facts": [
+      {
+        "label": "Current Role",
+        "value": "Software Engineer | Data Analytics & AI Solutions"
+      },
+      {
+        "label": "Current Company",
+        "value": "Tata Consultancy Services (TCS)"
+      },
+      {
+        "label": "Primary Expertise",
+        "value": "Python, SQL, PostgreSQL, Data Analytics & AI"
+      },
+      {
+        "label": "Currently Exploring",
+        "value": "Machine Learning, GenAI, PySpark & Kafka"
+      }
+    ]
+  },
+  "stats": [
+    { "label": "Years of Experience", "value": 2, "suffix": "+" },
+    { "label": "Projects Built", "value": 12, "suffix": "+" },
+    { "label": "Technologies", "value": 20, "suffix": "+" },
+    { "label": "Dashboards Created", "value": 10, "suffix": "+" },
+    { "label": "Enterprise Data Solutions", "value": 15, "suffix": "+" },
+    { "label": "Automation Workflows", "value": 20, "suffix": "+" },
+    { "label": "Business Problems Solved", "value": 15, "suffix": "+" }
+  ],
+  "experience": [
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "role": "Software Engineer | Data Analytics & AI Solutions",
+      "period": "Aug 2024 – Present",
+      "location": "Mumbai, Maharashtra",
+      "domain": "Enterprise Banking Solutions",
+      "summary": "Working on enterprise-scale banking systems, leveraging data analytics, SQL, Python, and automation to improve operational efficiency, data quality, and business decision-making across high-volume digital platforms.",
+      "points": [
+        "Analyze large-scale transactional datasets using PostgreSQL and SQL to identify trends, anomalies, and business insights.",
+        "Develop Python automation solutions for data validation, reconciliation, reporting, and operational workflows, significantly reducing manual effort.",
+        "Perform root cause analysis by correlating application logs, API responses, and database records to resolve production issues efficiently.",
+        "Design and optimize SQL queries for data extraction, validation, and performance improvement across enterprise databases.",
+        "Collaborate with cross-functional teams to deliver data-driven solutions, process improvements, and reliable analytical reports.",
+        "Support SIT, UAT, and production releases through comprehensive data validation and business rule verification."
+      ],
+      "tech": ["Python", "SQL", "PostgreSQL", "Excel", "Power BI", "REST APIs", "Git", "Linux"],
+      "achievements": [
+        "Automated repetitive data validation workflows using Python.",
+        "Improved SQL query performance for enterprise reporting and analysis.",
+        "Delivered reliable data-driven solutions for large-scale banking operations."
+      ]
+    },
+    {
+      "company": "Prism IT Systems",
+      "role": "Full Stack Developer (Next.js & TypeScript)",
+      "period": "Jan 2024 – Jun 2024",
+      "location": "Surat, Gujarat",
+      "domain": "Business Web Applications",
+      "summary": "Developed scalable full stack applications while building a strong foundation in backend systems, database design, API development, and data-driven application architecture.",
+      "points": [
+        "Built responsive web applications using Next.js, React, and TypeScript.",
+        "Developed REST APIs and backend services using Node.js and Express.",
+        "Designed and optimized MongoDB database schemas for scalable applications.",
+        "Integrated third-party APIs and implemented secure authentication systems.",
+        "Collaborated with clients to transform business requirements into technical solutions."
+      ],
+      "tech": ["React", "Next.js", "TypeScript", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+      "achievements": [
+        "Delivered multiple production-ready business applications.",
+        "Improved application performance through frontend and backend optimization."
+      ]
+    },
+    {
+      "company": "Soft Coding Solutions",
+      "role": "Full Stack Development Intern (MERN)",
+      "period": "Jul 2023 – Aug 2023",
+      "location": "Ahmedabad, Gujarat",
+      "domain": "Web Development",
+      "summary": "Built end-to-end web applications using the MERN stack while learning modern software engineering principles.",
+      "points": [
+        "Developed responsive user interfaces using React.",
+        "Built REST APIs using Node.js and Express.",
+        "Worked with MongoDB for data modeling and CRUD operations.",
+        "Participated in debugging, testing, and feature implementation."
+      ],
+      "tech": ["React", "Node.js", "Express", "MongoDB", "JavaScript"],
+      "achievements": [
+        "Successfully delivered assigned project modules within internship timelines."
+      ]
+    },
+    {
+      "company": "Infinity IT Solution",
+      "role": "Frontend Development Intern (React.js)",
+      "period": "Jul 2022 – Aug 2022",
+      "location": "Surat, Gujarat",
+      "domain": "Frontend Development",
+      "summary": "Started my software engineering journey by building responsive and user-friendly web interfaces with React.",
+      "points": [
+        "Developed reusable React components.",
+        "Implemented responsive UI designs using HTML, CSS, and JavaScript.",
+        "Integrated frontend applications with REST APIs.",
+        "Collaborated with senior developers during feature development and testing."
+      ],
+      "tech": ["React", "JavaScript", "HTML", "CSS", "Bootstrap"],
+      "achievements": ["Built reusable UI components that improved development efficiency."]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering (B.E.)",
+      "specialization": "Electronics & Communication Engineering",
+      "institution": "L.D. College of Engineering",
+      "location": "Ahmedabad, Gujarat",
+      "period": "2020 – 2024",
+      "detail": "Built a strong foundation in mathematics, programming, algorithms, databases, and analytical problem-solving while actively developing software engineering, data analytics, and AI projects."
+    },
+    {
+      "degree": "Higher Secondary (Science)",
+      "institution": "Lokmanya Vidhyalaya Higher Secondary School",
+      "location": "Surat, Gujarat",
+      "period": "2020",
+      "detail": "Completed Higher Secondary education with a focus on Mathematics and Science."
+    },
+    {
+      "degree": "Secondary School",
+      "institution": "Sanskar Bharti Vidhyalaya",
+      "location": "Surat, Gujarat",
+      "period": "2018",
+      "detail": "Completed Secondary education with a strong academic foundation."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Power BI",
+      "issuer": "LinkedIn Learning Community",
+      "year": "Aug 2026",
+      "url": "https://drive.google.com/file/d/1BC5bfk4akhwox2BalKJqDKLGm3L5-JVq/view?usp=sharing"
+    },
+    {
+      "name": "Advanced SQL for Data Engineering",
+      "issuer": "Udemy",
+      "year": "Aug 2026",
+      "url": "https://drive.google.com/file/d/1WdNgETqmRt4F7Yae91R63FkZJDKhO26M/view?usp=sharing"
+    },
+    {
+      "name": "Docker",
+      "issuer": "Udemy",
+      "year": "Feb 2026",
+      "url": "https://drive.google.com/file/d/1wuUs1fCI1uiMQy6B0426fJAIZh0My8wG/view?usp=sharing"
+    },
+    {
+      "name": "Java Spring Boot | Microservices",
+      "issuer": "Tata Consultancy Services",
+      "year": "Apr 2025",
+      "url": "https://drive.google.com/file/d/1AAU_5R3658pw7oZ5LoEKVEr5J4mbp8zd/view?usp=sharing"
+    },
+    {
+      "name": "Business communication",
+      "issuer": "Tata Consultancy Services",
+      "year": "Aug 2024",
+      "url": "https://drive.google.com/file/d/12ftLisJ5tivYn0ka2LTCB2u88rkLGRc0/view?usp=sharing"
+    },
+    {
+      "name": "Agile",
+      "issuer": "Tata Consultancy Services",
+      "year": "May 2024",
+      "url": "https://drive.google.com/file/d/19KS4XeRS3-cQ2nKTI8rqFjRoONV6rRZO/view?usp=sharing"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "icon": "Code2",
+      "items": [
+        { "name": "Python", "level": 90 },
+        { "name": "SQL", "level": 92 },
+        { "name": "JavaScript", "level": 85 },
+        { "name": "TypeScript", "level": 82 },
+        { "name": "JAVA", "level": 70 }
+      ]
+    },
+    {
+      "category": "Data Analytics",
+      "icon": "Database",
+      "items": [
+        { "name": "PostgreSQL", "level": 90 },
+        { "name": "MySQL", "level": 82 },
+        { "name": "Power BI", "level": 80 },
+        { "name": "Microsoft Excel", "level": 90 },
+        { "name": "Data Cleaning", "level": 88 },
+        { "name": "Data Validation", "level": 90 },
+        { "name": "Exploratory Data Analysis (EDA)", "level": 85 }
+      ]
+    },
+    {
+      "category": "Python Libraries",
+      "icon": "Library",
+      "items": [
+        { "name": "Pandas", "level": 88 },
+        { "name": "NumPy", "level": 85 },
+        { "name": "Matplotlib", "level": 82 },
+        { "name": "Seaborn", "level": 80 },
+        { "name": "Scikit-learn", "level": 78 }
+      ]
+    },
+    {
+      "category": "Artificial Intelligence",
+      "icon": "Sparkles",
+      "items": [
+        { "name": "OpenAI API", "level": 80 },
+        { "name": "LangChain", "level": 72 },
+        { "name": "Prompt Engineering", "level": 82 },
+        { "name": "Vector Databases", "level": 68 },
+        { "name": "RAG Applications", "level": 70 }
+      ]
+    },
+    {
+      "category": "Machine Learning",
+      "icon": "Brain",
+      "items": [
+        { "name": "Regression", "level": 80 },
+        { "name": "Classification", "level": 80 },
+        { "name": "Clustering", "level": 75 },
+        { "name": "Feature Engineering", "level": 78 },
+        { "name": "Model Evaluation", "level": 80 }
+      ]
+    },
+    {
+      "category": "Data Engineering",
+      "icon": "Workflow",
+      "items": [
+        { "name": "PySpark", "level": 60 },
+        { "name": "Kafka", "level": 55 },
+        { "name": "ETL Pipelines", "level": 75 },
+        { "name": "Data Transformation", "level": 82 }
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "icon": "Server",
+      "items": [
+        { "name": "Node.js", "level": 82 },
+        { "name": "Express.js", "level": 80 },
+        { "name": "REST APIs", "level": 88 },
+        { "name": "JWT Authentication", "level": 80 }
+      ]
+    },
+    {
+      "category": "Frontend Development",
+      "icon": "Layout",
+      "items": [
+        { "name": "React.js", "level": 88 },
+        { "name": "Next.js", "level": 82 },
+        { "name": "Tailwind CSS", "level": 88 },
+        { "name": "HTML5", "level": 95 },
+        { "name": "CSS3", "level": 90 },
+        { "name": "Material UI", "level": 80 }
+      ]
+    },
+    {
+      "category": "Databases",
+      "icon": "DatabaseZap",
+      "items": [
+        { "name": "PostgreSQL", "level": 90 },
+        { "name": "MongoDB", "level": 82 },
+        { "name": "MySQL", "level": 82 }
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "Wrench",
+      "items": [
+        { "name": "Git", "level": 90 },
+        { "name": "GitHub", "level": 90 },
+        { "name": "Postman", "level": 88 },
+        { "name": "Jupyter Notebook", "level": 88 },
+        { "name": "VS Code", "level": 95 },
+        { "name": "Linux", "level": 80 },
+        { "name": "Docker", "level": 65 }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "slug": "ai-resume-analyzer",
+      "title": "AI Resume Analyzer",
+      "category": "AI",
+      "tags": ["AI", "Python", "Backend"],
+      "featured": true,
+      "image": "ai",
+      "summary": "LLM-powered resume screening tool that scores a CV against a job description and returns structured, explainable feedback.",
+      "description": "An applicant-tracking-friendly analyzer that parses resumes, extracts structured entities, embeds both the resume and the job description, and produces a match score with concrete improvement suggestions.",
+      "tech": ["Python", "FastAPI", "OpenAI API", "LangChain", "Vector Database", "React"],
+      "features": [
+        "PDF and DOCX parsing with layout-aware text extraction",
+        "Semantic match scoring against any job description",
+        "Skill gap detection with rewrite suggestions",
+        "Exportable recruiter-ready summary report"
+      ],
+      "problem": "Candidates rarely know why a resume is filtered out, and small teams cannot manually review hundreds of applications per role.",
+      "solution": "Combine deterministic parsing with embedding-based similarity and an LLM reasoning layer that explains the score instead of only producing a number.",
+      "architecture": "React client → FastAPI service → parser + embedding pipeline → vector store for JD/resume chunks → LLM scoring chain → cached JSON report.",
+      "challenges": [
+        "Keeping LLM output strictly schema-valid",
+        "Controlling token cost on long documents",
+        "Avoiding biased scoring signals"
+      ],
+      "results": [
+        "Screening time per resume reduced from minutes to seconds",
+        "Structured JSON output usable directly by an ATS",
+        "Consistent scoring across repeated runs"
+      ],
+      "lessons": "Retrieval quality matters more than prompt cleverness; strict output schemas make LLM features shippable.",
+      "github": "https://github.com/example-abhay/ai-resume-analyzer",
+      "demo": "https://example.com/demo/ai-resume-analyzer"
+    },
+    {
+      "slug": "banking-data-analytics-dashboard",
+      "title": "Banking Data Analytics Dashboard",
+      "category": "Data Analytics",
+      "tags": ["Data Analytics", "Python", "Backend"],
+      "featured": true,
+      "image": "analytics",
+      "summary": "Transaction analytics dashboard surfacing success rates, failure categories and SLA breaches across digital banking journeys.",
+      "description": "A reporting layer built on PostgreSQL that aggregates transaction events into daily, channel-wise and failure-reason views for operations and business stakeholders.",
+      "tech": ["PostgreSQL", "Python", "Pandas", "Power BI", "SQL"],
+      "features": [
+        "Channel-wise transaction success and failure trends",
+        "Failure reason drilldowns with root cause tagging",
+        "Automated daily refresh via Python jobs",
+        "SLA breach alerting with threshold configuration"
+      ],
+      "problem": "Operations teams relied on manual spreadsheets to understand daily transaction failures, which delayed incident response.",
+      "solution": "Model the raw event data into analytical views, automate the refresh, and give stakeholders a single dashboard with drilldowns.",
+      "architecture": "Transaction tables → SQL aggregation views → Python ETL job → reporting schema → Power BI dashboards.",
+      "challenges": [
+        "Query performance over very large partitions",
+        "Late-arriving and duplicated events",
+        "Reconciling definitions across teams"
+      ],
+      "results": [
+        "Report preparation time cut from hours to minutes",
+        "5x faster reporting queries after index and CTE rework",
+        "Single source of truth for failure categorisation"
+      ],
+      "lessons": "Agreeing on metric definitions is harder — and more valuable — than building the dashboard.",
+      "github": "https://github.com/example-abhay/banking-analytics-dashboard",
+      "demo": "https://example.com/demo/banking-analytics"
+    },
+    {
+      "slug": "customer-churn-prediction",
+      "title": "Customer Churn Prediction",
+      "category": "Machine Learning",
+      "tags": ["Machine Learning", "Python"],
+      "featured": true,
+      "image": "analytics",
+      "summary": "End-to-end churn model with feature engineering, class-imbalance handling and business-facing risk segments.",
+      "description": "A supervised classification pipeline that predicts customer churn probability and converts it into actionable retention segments.",
+      "tech": ["Python", "Pandas", "Scikit-learn", "Matplotlib", "Jupyter"],
+      "features": [
+        "Automated feature engineering pipeline",
+        "Imbalance handling with class weighting",
+        "Model comparison and evaluation report",
+        "Risk-tier segmentation output"
+      ],
+      "problem": "Retention campaigns were sent to everyone, wasting budget on customers who were never going to leave.",
+      "solution": "Train and evaluate several classifiers, then expose calibrated probabilities as three actionable risk tiers.",
+      "architecture": "Raw customer data → cleaning + feature store → train/validate split → model comparison → calibrated model → scored segments export.",
+      "challenges": [
+        "Severe class imbalance",
+        "Leakage from post-churn features",
+        "Explaining predictions to non-technical stakeholders"
+      ],
+      "results": [
+        "ROC-AUC of 0.89 on holdout data",
+        "Top-decile capture of ~45% of churners",
+        "Clear feature-importance narrative for the business"
+      ],
+      "lessons": "A slightly worse model that stakeholders trust beats a better model nobody uses.",
+      "github": "https://github.com/example-abhay/customer-churn-prediction",
+      "demo": "https://example.com/demo/churn"
+    },
+    {
+      "slug": "fraud-detection-ml",
+      "title": "Fraud Detection using ML",
+      "category": "Machine Learning",
+      "tags": ["Machine Learning", "Python", "Backend"],
+      "featured": false,
+      "image": "ai",
+      "summary": "Anomaly detection service that flags suspicious transactions in near real time with tunable precision.",
+      "description": "Hybrid rules plus model scoring service designed for a high-volume payments stream where false positives are expensive.",
+      "tech": ["Python", "Scikit-learn", "FastAPI", "PostgreSQL"],
+      "features": [
+        "Rule engine plus ML score blending",
+        "Configurable alert thresholds",
+        "Analyst feedback loop",
+        "Audit trail for every decision"
+      ],
+      "problem": "Static rules missed novel fraud patterns and produced too many false alerts.",
+      "solution": "Blend a supervised score with deterministic rules and let analysts tune the operating point.",
+      "architecture": "Transaction stream → feature enrichment → model scoring API → rule blending → alert queue with feedback capture.",
+      "challenges": [
+        "Extreme class imbalance",
+        "Latency budget under 150ms",
+        "Concept drift over time"
+      ],
+      "results": [
+        "False positive rate reduced meaningfully at equal recall",
+        "Sub-150ms scoring latency",
+        "Retraining loop driven by analyst labels"
+      ],
+      "lessons": "In fraud, the operating point is a business decision, not a modelling one.",
+      "github": "https://github.com/example-abhay/fraud-detection-ml",
+      "demo": "https://example.com/demo/fraud-detection"
+    },
+    {
+      "slug": "ecommerce-data-pipeline",
+      "title": "E-commerce Data Pipeline",
+      "category": "Data Analytics",
+      "tags": ["Data Analytics", "Backend", "Python"],
+      "featured": false,
+      "image": "pipeline",
+      "summary": "Batch ETL pipeline consolidating orders, inventory and marketing data into an analytics-ready warehouse schema.",
+      "description": "An idempotent, incrementally-loading pipeline with validation gates and clear failure semantics.",
+      "tech": ["Python", "PostgreSQL", "PySpark", "SQL", "Docker"],
+      "features": [
+        "Incremental loads with watermarking",
+        "Data quality assertions per stage",
+        "Retry-safe idempotent writes",
+        "Dimensional reporting schema"
+      ],
+      "problem": "Business metrics were computed inconsistently from three disconnected source systems.",
+      "solution": "Land, clean and conform the sources into one warehouse schema with tested transformations.",
+      "architecture": "Sources → landing zone → cleaning layer → conformed dimensions and facts → reporting views.",
+      "challenges": [
+        "Schema drift in source exports",
+        "Backfilling historical data safely",
+        "Timezone normalisation"
+      ],
+      "results": [
+        "Consistent daily metrics across teams",
+        "Pipeline runtime kept under 12 minutes",
+        "Failures isolated to a single stage"
+      ],
+      "lessons": "Idempotency is what makes an ETL pipeline operable at 3am.",
+      "github": "https://github.com/example-abhay/ecommerce-data-pipeline",
+      "demo": "https://example.com/demo/ecommerce-pipeline"
+    },
+    {
+      "slug": "kafka-streaming-analytics",
+      "title": "Kafka Streaming Analytics",
+      "category": "Backend",
+      "tags": ["Backend", "Data Analytics"],
+      "featured": false,
+      "image": "pipeline",
+      "summary": "Event streaming prototype computing rolling windowed metrics over a live transaction topic.",
+      "description": "A learning-driven streaming project exploring consumer groups, windowed aggregation and exactly-once semantics.",
+      "tech": ["Kafka", "Python", "PySpark", "Docker"],
+      "features": [
+        "Windowed aggregations",
+        "Consumer group scaling",
+        "Dead letter topic handling",
+        "Live metrics endpoint"
+      ],
+      "problem": "Batch reporting was too slow to catch operational anomalies within the same day.",
+      "solution": "Consume the event topic and maintain rolling aggregates that surface anomalies within seconds.",
+      "architecture": "Producer → Kafka topic → streaming consumer with windowed state → metrics store → live dashboard endpoint.",
+      "challenges": [
+        "Out-of-order events",
+        "State recovery after restart",
+        "Backpressure handling"
+      ],
+      "results": [
+        "Anomaly detection latency under one minute",
+        "Horizontally scalable consumers",
+        "Clear replay strategy"
+      ],
+      "lessons": "Streaming is mostly about deciding what to do with late data.",
+      "github": "https://github.com/example-abhay/kafka-streaming-analytics",
+      "demo": "https://example.com/demo/kafka-analytics"
+    },
+    {
+      "slug": "realtime-analytics-dashboard",
+      "title": "Real-time Analytics Dashboard",
+      "category": "Full Stack",
+      "tags": ["Full Stack", "Frontend", "Backend"],
+      "featured": false,
+      "image": "analytics",
+      "summary": "Live operational dashboard streaming KPIs over websockets with a responsive, keyboard-navigable UI.",
+      "description": "A full stack dashboard focused on perceived performance: skeleton states, incremental hydration and smooth chart transitions.",
+      "tech": ["React", "TypeScript", "Node.js", "WebSockets", "PostgreSQL"],
+      "features": [
+        "Websocket live updates",
+        "Configurable KPI widgets",
+        "Dark and light themes",
+        "CSV export"
+      ],
+      "problem": "Teams refreshed a static report repeatedly to watch a number change.",
+      "solution": "Push updates to the client and design the UI around continuous change instead of page loads.",
+      "architecture": "Node websocket gateway → aggregation service → React dashboard with per-widget subscriptions.",
+      "challenges": [
+        "Reconnect and backfill logic",
+        "Render cost of frequent updates",
+        "Consistent state across widgets"
+      ],
+      "results": [
+        "Sub-second update latency",
+        "Stable performance with 20+ widgets",
+        "Positive stakeholder adoption"
+      ],
+      "lessons": "Throttling at the source beats optimising renders on the client.",
+      "github": "https://github.com/example-abhay/realtime-analytics-dashboard",
+      "demo": "https://example.com/demo/realtime-dashboard"
+    },
+    {
+      "slug": "sales-analytics-dashboard",
+      "title": "Sales Analytics Dashboard",
+      "category": "Data Analytics",
+      "tags": ["Data Analytics"],
+      "featured": false,
+      "image": "analytics",
+      "summary": "Power BI reporting suite covering pipeline health, regional performance and forecast accuracy.",
+      "description": "A stakeholder-facing reporting suite modelled on a clean star schema with well-defined measures.",
+      "tech": ["Power BI", "SQL", "Excel", "PostgreSQL"],
+      "features": [
+        "Region and rep drilldowns",
+        "Forecast versus actual tracking",
+        "Cohort revenue view",
+        "Scheduled refresh"
+      ],
+      "problem": "Sales leadership lacked a trustworthy single view of pipeline and attainment.",
+      "solution": "Model the data properly, define measures once, and remove ad-hoc spreadsheet variants.",
+      "architecture": "Source tables → star schema → measure layer → published reports with row-level security.",
+      "challenges": [
+        "Conflicting historical definitions",
+        "Slowly changing dimensions",
+        "Access control by region"
+      ],
+      "results": [
+        "Weekly reporting cycle reduced to a scheduled refresh",
+        "Fewer disputes over numbers",
+        "Adopted by three regional teams"
+      ],
+      "lessons": "A semantic layer is the real deliverable; charts are the easy part.",
+      "github": "https://github.com/example-abhay/sales-analytics-dashboard",
+      "demo": "https://example.com/demo/sales-dashboard"
+    },
+    {
+      "slug": "ground-booking-platform",
+      "title": "Ground Booking Platform",
+      "category": "Full Stack",
+      "tags": ["Full Stack", "Frontend", "Backend"],
+      "featured": false,
+      "image": "pipeline",
+      "summary": "MERN booking platform for sports grounds with slot management, payments placeholder and owner dashboard.",
+      "description": "A two-sided product: players book slots, owners manage availability, pricing and utilisation.",
+      "tech": ["React", "Node.js", "Express", "MongoDB", "JWT"],
+      "features": [
+        "Slot availability engine",
+        "Role-based owner dashboard",
+        "Booking history and cancellation rules",
+        "Email notification hooks"
+      ],
+      "problem": "Ground owners coordinated bookings over phone calls and lost slots to double bookings.",
+      "solution": "Model availability as first-class data and enforce conflicts at the API layer.",
+      "architecture": "React SPA → Express REST API → MongoDB with slot and booking collections → notification worker.",
+      "challenges": [
+        "Preventing race conditions on concurrent bookings",
+        "Timezone-safe slot generation",
+        "Cancellation policy edge cases"
+      ],
+      "results": [
+        "Double bookings eliminated",
+        "Booking completion rate improved",
+        "Owners self-serve their calendars"
+      ],
+      "lessons": "Concurrency bugs surface only when the product starts working.",
+      "github": "https://github.com/example-abhay/ground-booking-platform",
+      "demo": "https://example.com/demo/ground-booking"
+    },
+    {
+      "slug": "ecommerce-website",
+      "title": "E-commerce Website",
+      "category": "Full Stack",
+      "tags": ["Full Stack", "Frontend"],
+      "featured": false,
+      "image": "pipeline",
+      "summary": "Next.js storefront with catalogue, cart, checkout placeholder and an admin product console.",
+      "description": "A performance-focused storefront using server rendering for catalogue pages and client state for the cart.",
+      "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Node.js", "MongoDB"],
+      "features": [
+        "Faceted catalogue search",
+        "Persistent cart",
+        "Admin product CRUD",
+        "SEO-friendly product pages"
+      ],
+      "problem": "A small retailer needed an owned storefront instead of a marketplace listing.",
+      "solution": "Ship a fast, SEO-ready storefront with a simple admin surface the owner can run alone.",
+      "architecture": "Next.js routes with server-rendered catalogue → API layer → MongoDB → admin console.",
+      "challenges": ["Cart and inventory consistency", "Image performance", "Search relevance"],
+      "results": [
+        "Strong Lighthouse scores on product pages",
+        "Owner-managed catalogue with no developer involvement",
+        "Organic traffic growth"
+      ],
+      "lessons": "For commerce, page speed is a feature with revenue attached.",
+      "github": "https://github.com/example-abhay/ecommerce-website",
+      "demo": "https://example.com/demo/ecommerce"
+    },
+    {
+      "slug": "portfolio-website",
+      "title": "Portfolio Website",
+      "category": "Frontend",
+      "tags": ["Frontend", "Full Stack"],
+      "featured": false,
+      "image": "ai",
+      "summary": "A fully data-driven personal site rendered end to end from a single JSON source of truth.",
+      "description": "Every section, route and metadata field is generated from one structured JSON file, so content updates never touch component code.",
+      "tech": ["React", "TypeScript", "Tailwind CSS", "Motion"],
+      "features": [
+        "Single-JSON content model",
+        "Dark and light themes",
+        "Command palette navigation",
+        "Scroll-reveal animation system"
+      ],
+      "problem": "Portfolio sites rot because content lives inside components.",
+      "solution": "Separate content from presentation completely and render every route from typed JSON.",
+      "architecture": "portfolio.json → typed accessors → route-level section components → shared animation and theme primitives.",
+      "challenges": [
+        "Keeping the schema flexible but typed",
+        "Animation performance on mobile",
+        "Accessible motion defaults"
+      ],
+      "results": [
+        "Content updates take minutes",
+        "Consistent design language across pages",
+        "High accessibility and SEO scores"
+      ],
+      "lessons": "Content architecture is design work.",
+      "github": "https://github.com/example-abhay/portfolio-website",
+      "demo": "https://example.com/demo/portfolio"
+    },
+    {
+      "slug": "notes-app",
+      "title": "Notes App",
+      "category": "Frontend",
+      "tags": ["Frontend", "Full Stack"],
+      "featured": false,
+      "image": "ai",
+      "summary": "Offline-first notes application with markdown editing, tagging and instant fuzzy search.",
+      "description": "A small, fast note-taking app built around local-first storage with background sync.",
+      "tech": ["React", "TypeScript", "IndexedDB", "Node.js"],
+      "features": [
+        "Markdown editor with preview",
+        "Tag filtering",
+        "Fuzzy search",
+        "Offline-first sync"
+      ],
+      "problem": "Note apps become slow and cloud-dependent as the note count grows.",
+      "solution": "Keep everything local by default and sync opportunistically in the background.",
+      "architecture": "React client → IndexedDB store → sync worker → Node sync endpoint.",
+      "challenges": [
+        "Conflict resolution",
+        "Search index size",
+        "Editor performance on long notes"
+      ],
+      "results": [
+        "Instant search across thousands of notes",
+        "Works fully offline",
+        "Small bundle footprint"
+      ],
+      "lessons": "Local-first design removes an entire class of loading states.",
+      "github": "https://github.com/example-abhay/notes-app",
+      "demo": "https://example.com/demo/notes-app"
+    }
+  ],
+  "projectFilters": [
+    "All",
+    "AI",
+    "Machine Learning",
+    "Data Analytics",
+    "Python",
+    "Backend",
+    "Frontend",
+    "Full Stack"
+  ],
+  "services": {
+    "heading": "What I Do",
+    "subheading": "Helping businesses transform data into intelligent solutions through AI, analytics, and modern software development.",
+    "items": [
+      {
+        "title": "Data Analytics",
+        "icon": "BarChart3",
+        "description": "Analyze business data to uncover insights, identify trends, optimize processes, and support data-driven decision making.",
+        "deliverables": ["Data Analysis", "SQL Queries", "Business Insights", "Interactive Reports"]
+      },
+      {
+        "title": "AI & Machine Learning",
+        "icon": "Brain",
+        "description": "Develop intelligent applications using Machine Learning, Generative AI, and Large Language Models to automate workflows and solve business problems.",
+        "deliverables": ["ML Models", "Predictive Analytics", "LLM Applications", "AI Automation"]
+      },
+      {
+        "title": "Python Automation",
+        "icon": "Bot",
+        "description": "Build Python-based automation solutions for repetitive tasks, data processing, reporting, and workflow optimization.",
+        "deliverables": [
+          "Automation Scripts",
+          "Data Processing",
+          "Scheduled Jobs",
+          "Reporting Tools"
+        ]
+      },
+      {
+        "title": "Dashboard Development",
+        "icon": "LayoutDashboard",
+        "description": "Create interactive dashboards and visualizations that help businesses monitor KPIs and make informed decisions.",
+        "deliverables": [
+          "Power BI Dashboards",
+          "Business Reports",
+          "Data Visualization",
+          "Performance Metrics"
+        ]
+      },
+      {
+        "title": "Data Engineering",
+        "icon": "Database",
+        "description": "Design scalable data pipelines, optimize databases, and prepare reliable datasets for analytics and AI applications.",
+        "deliverables": [
+          "ETL Pipelines",
+          "Database Optimization",
+          "Data Transformation",
+          "Data Validation"
+        ]
+      },
+      {
+        "title": "Generative AI Solutions",
+        "icon": "Sparkles",
+        "description": "Build AI-powered assistants, document processing systems, and custom LLM applications using modern AI frameworks.",
+        "deliverables": ["Chatbots", "RAG Applications", "AI Assistants", "Prompt Engineering"]
+      },
+      {
+        "title": "Backend Development",
+        "icon": "Server",
+        "description": "Develop secure, scalable backend services and REST APIs with a strong focus on performance and reliability.",
+        "deliverables": ["REST APIs", "Authentication", "Database Integration", "API Documentation"]
+      },
+      {
+        "title": "Full Stack Development",
+        "icon": "Layers",
+        "description": "Build modern, responsive web applications using React, Next.js, Node.js, and TypeScript from concept to deployment.",
+        "deliverables": ["Frontend Development", "Backend Development", "Deployment", "Maintenance"]
+      }
+    ],
+    "process": [
+      {
+        "step": "01",
+        "title": "Understand",
+        "description": "Understand the business goals, challenges, available data, and project requirements."
+      },
+      {
+        "step": "02",
+        "title": "Plan",
+        "description": "Design the architecture, define milestones, and choose the best technologies for the solution."
+      },
+      {
+        "step": "03",
+        "title": "Develop",
+        "description": "Build scalable, maintainable, and high-quality solutions with regular progress updates."
+      },
+      {
+        "step": "04",
+        "title": "Validate",
+        "description": "Perform testing, data validation, optimization, and quality assurance before delivery."
+      },
+      {
+        "step": "05",
+        "title": "Deploy",
+        "description": "Deploy the solution, provide documentation, and offer post-delivery support."
+      }
+    ],
+    "pricing": [
+      {
+        "plan": "Freelance",
+        "price": "Let's Discuss",
+        "note": "Best for startups, businesses, and individual projects.",
+        "features": ["Flexible Scope", "Project-Based Pricing", "Continuous Communication"]
+      },
+      {
+        "plan": "Contract",
+        "price": "Custom",
+        "note": "Ideal for medium and long-term development or analytics projects.",
+        "features": ["Dedicated Support", "Milestone-Based Delivery", "Regular Progress Updates"],
+        "highlighted": true
+      },
+      {
+        "plan": "Consultation",
+        "price": "Hourly",
+        "note": "For technical guidance, debugging, architecture reviews, and analytics consulting.",
+        "features": ["One-on-One Sessions", "Problem Solving", "Architecture Guidance"]
+      }
+    ],
+    "whyMe": [
+      "Experience working with enterprise-scale applications handling large volumes of business data.",
+      "Strong foundation in Software Engineering, Data Analytics, and Python development.",
+      "Passionate about Artificial Intelligence, Machine Learning, and Generative AI.",
+      "Deliver scalable, maintainable, and business-focused solutions.",
+      "Clear communication, clean documentation, and reliable project delivery."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Enterprise Experience",
+      "icon": "Briefcase",
+      "description": "Contributing to enterprise-scale digital banking solutions with a focus on data analytics, automation, and business process optimization."
+    },
+    {
+      "title": "Data & AI Projects",
+      "icon": "Brain",
+      "description": "Built hands-on projects in Data Analytics, Machine Learning, Generative AI, and Full Stack Development to solve real-world business problems."
+    },
+    {
+      "title": "Python & SQL",
+      "icon": "Database",
+      "description": "Developed SQL-driven analytics and Python automation solutions for data validation, reporting, and operational efficiency."
+    },
+    {
+      "title": "Continuous Learning",
+      "icon": "GraduationCap",
+      "description": "Continuously expanding expertise in Machine Learning, PySpark, Kafka, LLMs, and modern AI technologies through practical projects."
+    },
+    {
+      "title": "Problem Solving",
+      "icon": "Puzzle",
+      "description": "Passionate about analytical thinking, debugging complex systems, and building scalable, data-driven solutions."
+    },
+    {
+      "title": "Software Engineering",
+      "icon": "Code2",
+      "description": "Strong foundation in full stack development, backend engineering, REST APIs, and modern software architecture."
+    }
+  ],
+  "github": {
+    "username": "example-abhay",
+    "profileUrl": "https://github.com/example-abhay",
+    "contributionsNote": "Contribution graph placeholder — connect the GitHub API to render live activity.",
+    "repos": [
+      {
+        "name": "ai-resume-analyzer",
+        "description": "LLM-powered resume scoring and feedback engine.",
+        "language": "Python",
+        "stars": 128,
+        "url": "https://github.com/example-abhay/ai-resume-analyzer"
+      },
+      {
+        "name": "banking-analytics-dashboard",
+        "description": "SQL models and Python ETL for transaction analytics.",
+        "language": "SQL",
+        "stars": 94,
+        "url": "https://github.com/example-abhay/banking-analytics-dashboard"
+      },
+      {
+        "name": "customer-churn-prediction",
+        "description": "Churn modelling pipeline with calibrated risk tiers.",
+        "language": "Jupyter Notebook",
+        "stars": 76,
+        "url": "https://github.com/example-abhay/customer-churn-prediction"
+      },
+      {
+        "name": "ecommerce-data-pipeline",
+        "description": "Idempotent incremental ETL into a warehouse schema.",
+        "language": "Python",
+        "stars": 61,
+        "url": "https://github.com/example-abhay/ecommerce-data-pipeline"
+      },
+      {
+        "name": "realtime-analytics-dashboard",
+        "description": "Websocket-driven live KPI dashboard.",
+        "language": "TypeScript",
+        "stars": 48,
+        "url": "https://github.com/example-abhay/realtime-analytics-dashboard"
+      },
+      {
+        "name": "python-automation-toolkit",
+        "description": "Reusable scripts for validation and reporting tasks.",
+        "language": "Python",
+        "stars": 37,
+        "url": "https://github.com/example-abhay/python-automation-toolkit"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "name": "Priya Sharma",
+      "role": "Delivery Manager",
+      "company": "Banking Programme",
+      "quote": "Abhay consistently turns ambiguous production issues into clear root causes. His SQL work noticeably improved our reporting turnaround.",
+      "avatar": "PS"
+    },
+    {
+      "name": "Rahul Mehta",
+      "role": "Founder",
+      "company": "Retail Startup",
+      "quote": "He shipped our storefront end to end and explained every decision in plain language. Communication was as good as the code.",
+      "avatar": "RM"
+    },
+    {
+      "name": "Ananya Iyer",
+      "role": "Product Owner",
+      "company": "Analytics Team",
+      "quote": "The dashboard he built became the single number our leadership quotes in reviews. That only happens when the data model is right.",
+      "avatar": "AI"
+    },
+    {
+      "name": "David Chen",
+      "role": "Engineering Lead",
+      "company": "SaaS Platform",
+      "quote": "Reliable, structured and genuinely curious. He asks the questions that save you two weeks of rework.",
+      "avatar": "DC"
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "sql-performance-lessons-from-banking",
+      "title": "SQL Performance Lessons From a Banking Platform",
+      "date": "2026-05-18",
+      "readTime": "8 min read",
+      "tags": ["SQL", "PostgreSQL", "Performance"],
+      "excerpt": "What actually made our reporting queries 5x faster — and the optimisations that turned out to be noise.",
+      "content": "## The setup\n\nReporting queries over a high-volume transaction table were taking minutes. The dataset was partitioned, indexed and, on paper, fine.\n\n## What actually helped\n\n1. **Reading the execution plan first.** Most guesses were wrong. The plan was not.\n2. **Replacing correlated subqueries with window functions.** One rewrite removed a nested loop over millions of rows.\n3. **Composite indexes ordered by selectivity.** Column order matters more than column count.\n4. **Materialising the aggregation layer.** Not every query needs to be live.\n\n```sql\nSELECT channel,\n       date_trunc('day', created_at) AS day,\n       count(*) FILTER (WHERE status = 'SUCCESS') AS success,\n       count(*) AS total\nFROM transactions\nWHERE created_at >= now() - interval '30 days'\nGROUP BY 1, 2;\n```\n\n## What did not help\n\nAdding indexes speculatively, rewriting joins into CTEs for readability alone, and increasing work_mem without measuring.\n\n## Takeaway\n\nMeasure, change one thing, measure again. Performance work without a baseline is just refactoring."
+    },
+    {
+      "slug": "shipping-llm-features-that-do-not-break",
+      "title": "Shipping LLM Features That Do Not Break in Production",
+      "date": "2026-04-02",
+      "readTime": "7 min read",
+      "tags": ["AI", "LLM", "Python"],
+      "excerpt": "Strict schemas, retrieval quality and cost guardrails matter far more than prompt wording.",
+      "content": "## The uncomfortable truth\n\nMost LLM demos fail in production for boring reasons: unpredictable output shape, runaway cost and irrelevant retrieval.\n\n## Three rules I follow\n\n### 1. Enforce a schema\n\nValidate every response against a schema and retry on failure. Free-form text is not an API.\n\n```python\nclass Score(BaseModel):\n    match: int\n    gaps: list[str]\n    summary: str\n```\n\n### 2. Fix retrieval before prompts\n\nIf the right chunk never reaches the model, no prompt saves you. Chunking strategy is the feature.\n\n### 3. Budget tokens explicitly\n\nCap input length, cache aggressively and log cost per request from day one.\n\n## Takeaway\n\nTreat the model as an unreliable service you wrap carefully — not as magic."
+    },
+    {
+      "slug": "python-automation-that-pays-for-itself",
+      "title": "Python Automation That Pays For Itself in a Week",
+      "date": "2026-02-11",
+      "readTime": "6 min read",
+      "tags": ["Python", "Automation"],
+      "excerpt": "How to pick which manual task to automate first, and how to make the script survive contact with reality.",
+      "content": "## Pick the right target\n\nAutomate the task that is frequent, deterministic and painful — in that order. A weekly two-hour task beats a rare four-hour one.\n\n## Make it boring\n\n- Idempotent runs\n- Explicit logging\n- Fail loudly, never silently\n- Configuration outside the code\n\n```python\ndef run(config: Config) -> Report:\n    rows = fetch(config)\n    issues = validate(rows)\n    notify(issues)\n    return Report(len(rows), len(issues))\n```\n\n## Measure the saving\n\nRecord the manual baseline before you start. It is the only way to prove the value later.\n\n## Takeaway\n\nAutomation is a product with one user. Treat that user well."
+    },
+    {
+      "slug": "from-mern-to-data-engineering",
+      "title": "From MERN to Data: What Transferred and What Did Not",
+      "date": "2025-12-05",
+      "readTime": "5 min read",
+      "tags": ["Career", "Data", "Full Stack"],
+      "excerpt": "Moving from full stack product work into banking data analytics changed how I think about correctness.",
+      "content": "## What transferred\n\nAPI thinking, debugging instinct, version control discipline and the habit of writing things down.\n\n## What did not\n\nIn product work, a bug is annoying. In banking data, an incorrect number is a compliance event. The bar for verification is completely different.\n\n## The bridge skill\n\nSQL. It is the one language that stays useful whether you are building a dashboard, an API or a model.\n\n## Takeaway\n\nBreadth is only valuable if each area is deep enough to be trusted."
+    }
+  ],
+  "resume": {
+    "heading": "Resume",
+    "subheading": "A one-page summary of experience, skills and delivery track record.",
+    "fileName": "Abhay-Patel-Software-Engineer.pdf",
+    "updated": "Updated August 2026",
+    "url": "https://example.com/abhay-patel-resume.pdf",
+    "previewUrl": "https://example.com/abhay-patel-resume.pdf",
+    "highlights": [
+      "3+ years across banking data analytics and full stack product engineering",
+      "Strong PostgreSQL, SQL optimisation and Python automation background",
+      "AI/ML project portfolio with deployed, measurable outcomes",
+      "Comfortable owning delivery from database design to user interface"
+    ]
+  },
+  "contact": {
+    "heading": "Let's build something",
+    "subheading": "Tell me about the role or the project. I reply within one business day.",
+    "email": "its.abhaypatel@gmail.com",
+    "phone": "+91 93133 89251",
+    "location": "Mumbai, India — open to remote",
+    "availability": "Available for freelance projects and full-time opportunities",
+    "responseTime": "Typically replies within 24 hours",
+    "calendarNote": "Calendar booking coming soon — email works fastest for now.",
+    "mapNote": "Map placeholder — Mumbai, Maharashtra, India",
+    "form": {
+      "fields": [
+        { "name": "name", "label": "Name", "placeholder": "Your full name", "type": "text" },
+        { "name": "email", "label": "Email", "placeholder": "you@company.com", "type": "email" },
+        {
+          "name": "subject",
+          "label": "Subject",
+          "placeholder": "What is this about?",
+          "type": "text"
+        },
+        {
+          "name": "message",
+          "label": "Message",
+          "placeholder": "Share a few details about the project or role…",
+          "type": "textarea"
+        }
+      ],
+      "submitLabel": "Send Message",
+      "successMessage": "Thanks — your message has been captured. I'll get back to you shortly."
+    }
+  },
+  "footer": {
+    "note": "Passionate about building intelligent software, AI-powered solutions, and data-driven products that create real business impact.",
+    "copyright": "© 2026 Abhay Patel. All rights reserved.",
+    "quickLinks": [
+      { "label": "About", "href": "/about" },
+      { "label": "Experience", "href": "/experience" },
+      { "label": "Projects", "href": "/projects" },
+      { "label": "Resume", "href": "/resume" },
+      { "label": "Contact", "href": "/contact" }
+    ]
+  },
+  "misc": {
+    "visitorCount": 359,
+    "visitorNote": "Visitor count "
+  },
+  "seo": {
+    "siteName": "Abhay Patel",
+    "defaultTitle": "Abhay Patel | AI Engineer | Data Analyst | Software Engineer",
+    "defaultDescription": "Software Engineer at Tata Consultancy Services specializing in AI, Machine Learning, Data Analytics, Python, SQL, and Full Stack Development. Building intelligent applications, data-driven solutions, and scalable software for enterprise and business needs.",
+    "keywords": [
+      "Abhay Patel",
+      "AI Engineer",
+      "Machine Learning Engineer",
+      "Data Analyst",
+      "Data Scientist",
+      "Software Engineer",
+      "Python Developer",
+      "SQL",
+      "Data Analytics",
+      "Artificial Intelligence",
+      "Generative AI",
+      "LLM",
+      "Power BI",
+      "PostgreSQL",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Portfolio"
+    ],
+    "author": "Abhay Patel",
+    "robots": "index, follow",
+    "themeColor": "#0f172a",
+    "ogImage": "/images/og-image.png",
+    "twitterCard": "summary_large_image"
+  }
+}
